@@ -46,12 +46,14 @@ git submodule add -b master https://github.com/ndunand/moodle-mod_choicegroup.gi
 git submodule add -b master https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
 ```
 
-### TO DO:
-
 - https://github.com/dthies/moodle-atto_fullscreen
 ```bash
 git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git lib/editor/atto/plugins/fullscreen
 ```
+
+### TO DO:
+
+
 
 - https://github.com/MFreakNL/moodle-availability_ipaddress
 ```bash
