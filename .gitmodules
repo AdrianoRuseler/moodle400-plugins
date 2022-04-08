@@ -2,7 +2,3 @@
 	path = moodle/mod/attendance
 	url = https://github.com/danmarsden/moodle-mod_attendance.git
 	branch = MOODLE_400_STABLE
-[submodule "moodle/question/behaviour/adaptive_adapted_for_coderunner"]
-	path = moodle/question/behaviour/adaptive_adapted_for_coderunner
-	url = https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git
-	branch = master
