@@ -81,15 +81,12 @@ git submodule add -b MOODLE_39_STABLE https://github.com/catalyst/moodle-report_
 ```bash
 git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 ```
-
-### TO DO:
-
-- https://github.com/Syxton/moodle-tool_coursearchiver
+- https://github.com/projectestac/moodle-mod_geogebra
 ```bash
-git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
+git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
 ```
 
-
+### TO DO:
 
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
@@ -136,11 +133,6 @@ git submodule add -b MOODLE_311_STABLE https://github.com/academic-moodle-cooper
 git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
 ```
 
-- https://github.com/jleyva/moodle-block_configurablereports
-```bash
-git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
-```
-
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
@@ -168,10 +160,7 @@ git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimp
 git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
 ```
 
-- https://github.com/projectestac/moodle-mod_geogebra
-```bash
-git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
-```
+
 
 - https://github.com/donhinkelman/moodle-block_sharing_cart
 ```bash
@@ -187,6 +176,7 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
 ```
+
 ### Need review
 
 - https://github.com/bostelm/moodle-mod_scheduler
@@ -205,6 +195,14 @@ git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+```
+- https://github.com/jleyva/moodle-block_configurablereports
+```bash
+git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
+```
+- https://github.com/Syxton/moodle-tool_coursearchiver
+```bash
+git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
 ```
 
 ### ERROR:
