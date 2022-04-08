@@ -77,7 +77,10 @@ git submodule add -b master https://github.com/davosmith/moodle-checklist.git mo
 ```bash
 git submodule add -b MOODLE_39_STABLE https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
 ```
-
+- https://moodle.org/plugins/availability_relativedate
+```bash
+git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
+```
 
 ### TO DO:
 
@@ -148,10 +151,7 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
 ```
 
-- https://moodle.org/plugins/availability_relativedate
-```bash
-git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
-```
+
 
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
