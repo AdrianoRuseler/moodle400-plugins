@@ -50,11 +50,12 @@ git submodule add -b master https://github.com/frankkoch/moodle-mod_studentquiz.
 ```bash
 git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git lib/editor/atto/plugins/fullscreen
 ```
+- https://github.com/xow/moodle-mod_quizgame
+```bash
+git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
+```
 
 ### TO DO:
-
-
-
 - https://github.com/MFreakNL/moodle-availability_ipaddress
 ```bash
 git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
@@ -185,10 +186,7 @@ git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.
 git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 
-- https://github.com/xow/moodle-mod_quizgame
-```bash
-git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
-```
+
 
 - https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
 ```bash
