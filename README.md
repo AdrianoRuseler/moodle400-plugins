@@ -111,6 +111,11 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git 
 git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_block_dedication.git blocks/dedication
 ```
 
+- https://github.com/mudrd8mz/moodle-mod_subcourse
+```bash
+git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
+```
+
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
@@ -132,19 +137,10 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
 
-
-
-- https://github.com/mudrd8mz/moodle-mod_subcourse
-```bash
-git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
-```
-
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
-
-
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
