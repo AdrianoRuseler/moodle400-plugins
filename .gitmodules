@@ -2,3 +2,7 @@
 	path = moodle/mod/attendance
 	url = https://github.com/danmarsden/moodle-mod_attendance.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/lib/editor/atto/plugins/cloze"]
+	path = moodle/lib/editor/atto/plugins/cloze
+	url = https://github.com/dthies/moodle-atto_cloze.git
+	branch = master
