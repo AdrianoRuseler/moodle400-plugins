@@ -46,3 +46,7 @@
 	path = moodle/question/type/vplquestion
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
 	branch = master
+[submodule "moodle/lib/editor/atto/plugins/justify"]
+	path = moodle/lib/editor/atto/plugins/justify
+	url = https://github.com/moodle-ead/atto_justify.git
+	branch = master
