@@ -74,3 +74,7 @@
 	path = moodle/question/type/ordering
 	url = https://github.com/gbateson/moodle-qtype_ordering.git
 	branch = master
+[submodule "moodle/question/type/essayautograde"]
+	path = moodle/question/type/essayautograde
+	url = https://github.com/gbateson/moodle-qtype_essayautograde.git
+	branch = master
