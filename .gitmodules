@@ -86,3 +86,7 @@
 	path = moodle/question/type/combined
 	url = https://github.com/moodleou/moodle-qtype_combined.git
 	branch = main
+[submodule "moodle/blocks/dedication"]
+	path = moodle/blocks/dedication
+	url = https://bitbucket.org/ciceidev/moodle_block_dedication.git
+	branch = MOODLE_30_STABLE
