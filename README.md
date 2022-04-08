@@ -21,7 +21,7 @@ git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/
 ```bash
 git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
 ```
-### TO DO:
+
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
@@ -31,7 +31,7 @@ git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
-
+### TO DO:
 - https://github.com/bostelm/moodle-mod_scheduler
 ```bash
  git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
