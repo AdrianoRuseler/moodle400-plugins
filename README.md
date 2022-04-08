@@ -12,13 +12,6 @@ cd moodle
 git submodule add -b MOODLE_400_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
 
-### TO DO:
-- https://github.com/trampgeek/moodle-qtype_coderunner
-```bash
-git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
-git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
-```
-
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
 git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
@@ -28,7 +21,7 @@ git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/
 ```bash
 git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
 ```
-
+### TO DO:
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
@@ -215,6 +208,13 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 - https://github.com/turnitin/moodle-mod_turnitintooltwo.git
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+```
+
+### ERROR:
+- https://github.com/trampgeek/moodle-qtype_coderunner
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
 ```
 
 ## Remove
