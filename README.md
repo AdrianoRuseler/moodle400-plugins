@@ -36,18 +36,12 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultirespon
 ```bash
 git submodule add -b master https://github.com/deraadt/moodle-block_completion_progress.git blocks/completion_progress
 ```
-
-### TO DO:
-
-
-- https://gitlab.com/jezhops/moodle-theme_adaptable
-```bash
-git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
-```
 - https://github.com/ndunand/moodle-mod_choicegroup
 ```bash
 git submodule add -b master https://github.com/ndunand/moodle-mod_choicegroup.git mod/choicegroup
 ```
+### TO DO:
+
 
 - https://github.com/frankkoch/moodle-mod_studentquiz
 ```bash
@@ -221,6 +215,11 @@ git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintoolt
 ```bash
 git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
 git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+```
+### REMOVED:
+- https://gitlab.com/jezhops/moodle-theme_adaptable
+```bash
+git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
 ```
 
 ## Remove
