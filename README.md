@@ -97,13 +97,12 @@ git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.gi
 ```bash
 git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
 ```
-
-### TO DO:
-
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
+
+### TO DO:
 
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
