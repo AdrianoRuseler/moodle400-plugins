@@ -102,8 +102,12 @@ git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautogr
 git submodule add -b MOODLE_311_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
 
-### TO DO:
+- https://github.com/moodleou/moodle-qtype_combined
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
+```
 
+### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
 git submodule add -b master https://github.com/brandaorodrigo/moodle-format_buttons.git course/format/buttons
@@ -139,10 +143,6 @@ git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git m
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 
-- https://github.com/moodleou/moodle-qtype_combined
-```bash
-git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
-```
 
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
