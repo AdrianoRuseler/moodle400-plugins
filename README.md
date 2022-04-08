@@ -89,6 +89,10 @@ git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
+- https://github.com/gbateson/moodle-qtype_ordering
+```bash
+git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
+```
 
 ### TO DO:
 
@@ -127,10 +131,7 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 
-- https://github.com/gbateson/moodle-qtype_ordering
-```bash
-git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
-```
+
 
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
