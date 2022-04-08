@@ -69,6 +69,10 @@ git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda
 ```bash
 git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
 ```
+- https://github.com/davosmith/moodle-checklist
+```bash
+git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
+```
 
 ### TO DO:
 
@@ -82,10 +86,7 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 git submodule add -b master https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
 ```
 
-- https://github.com/davosmith/moodle-checklist
-```bash
-git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
-```
+
 
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
