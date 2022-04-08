@@ -55,16 +55,15 @@ git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git
 git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
 ```
 
+- https://github.com/jcrodriguez-dis/moodle-mod_vpl
+```bash
+git submodule add -b V3.5.0 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+```
+- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
+```bash
+git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+```
 ### TO DO:
-- https://github.com/MFreakNL/moodle-availability_ipaddress
-```bash
-git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
-```
-
-- https://github.com/udima-university/moodle-mod_jitsi
-```bash
-git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
-```
 
 - https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
@@ -156,11 +155,6 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git 
 git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 ```
 
-- https://github.com/jcrodriguez-dis/moodle-mod_vpl
-```bash
-git submodule add -b V3.4.3+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
-```
-
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
@@ -186,13 +180,6 @@ git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.
 git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 
-
-
-- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
-```bash
-git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
-```
-
 - https://github.com/turnitin/moodle-plagiarism_turnitin.git
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
@@ -208,7 +195,14 @@ git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintoolt
 ```bash
  git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
-
+- https://github.com/MFreakNL/moodle-availability_ipaddress
+```bash
+git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
+```
+- https://github.com/udima-university/moodle-mod_jitsi
+```bash
+git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
+```
 
 ### ERROR:
 - https://github.com/trampgeek/moodle-qtype_coderunner
@@ -216,6 +210,7 @@ git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintoolt
 git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
 git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
 ```
+
 ### REMOVED:
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
