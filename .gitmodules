@@ -82,3 +82,7 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_311_STABLE
+[submodule "moodle/question/type/combined"]
+	path = moodle/question/type/combined
+	url = https://github.com/moodleou/moodle-qtype_combined.git
+	branch = main
