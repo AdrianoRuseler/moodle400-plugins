@@ -70,3 +70,7 @@
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
 	branch = MOODLE_311_STABLE
+[submodule "moodle/question/type/ordering"]
+	path = moodle/question/type/ordering
+	url = https://github.com/gbateson/moodle-qtype_ordering.git
+	branch = master
