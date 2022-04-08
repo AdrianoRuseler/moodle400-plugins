@@ -73,17 +73,17 @@ git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/e
 ```bash
 git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
 ```
+- https://github.com/catalyst/moodle-report_coursesize
+```bash
+git submodule add -b MOODLE_39_STABLE https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
+```
+
 
 ### TO DO:
 
 - https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
 git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
-```
-
-- https://github.com/catalyst/moodle-report_coursesize
-```bash
-git submodule add -b master https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
 ```
 
 
