@@ -93,6 +93,10 @@ git submodule add -b MOODLE_311_STABLE https://github.com/academic-moodle-cooper
 ```bash
 git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
 ```
+- https://github.com/gbateson/moodle-qtype_essayautograde
+```bash
+git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
+```
 
 ### TO DO:
 
@@ -131,8 +135,6 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 
-
-
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
@@ -143,8 +145,6 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
 ```
 
-
-
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
@@ -154,13 +154,6 @@ git submodule add -b MOODLE_311_STABLE https://github.com/DigiDago/moodle-format
 ```bash
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
-
-- https://github.com/gbateson/moodle-qtype_essayautograde
-```bash
-git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
-```
-
-
 
 - https://github.com/donhinkelman/moodle-block_sharing_cart
 ```bash
