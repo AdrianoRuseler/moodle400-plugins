@@ -59,10 +59,17 @@ git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/q
 ```bash
 git submodule add -b V3.5.0 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
+
 - https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
 ```bash
 git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
 ```
+
+- https://moodle.org/plugins/atto_justify
+```bash
+git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
+```
+
 ### TO DO:
 
 - https://github.com/Syxton/moodle-tool_coursearchiver
@@ -120,19 +127,9 @@ git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git m
 git submodule add -b MOODLE_311_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
 
-- https://moodle.org/plugins/atto_justify
-```bash
-git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
-```
-
 - https://github.com/gbateson/moodle-qtype_ordering
 ```bash
 git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
-```
-
-- https://github.com/moodleuulm/moodle-local_sandbox
-```bash
-git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 - https://github.com/jleyva/moodle-block_configurablereports
@@ -202,6 +199,11 @@ git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipad
 - https://github.com/udima-university/moodle-mod_jitsi
 ```bash
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
+```
+
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 ### ERROR:
