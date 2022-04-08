@@ -31,15 +31,14 @@ git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
 ```
-### TO DO:
-- https://github.com/bostelm/moodle-mod_scheduler
-```bash
- git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
-```
+
 - https://github.com/deraadt/moodle-block_completion_progress
 ```bash
 git submodule add -b master https://github.com/deraadt/moodle-block_completion_progress.git blocks/completion_progress
 ```
+
+### TO DO:
+
 
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
@@ -209,6 +208,13 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
 ```
+### Need review
+
+- https://github.com/bostelm/moodle-mod_scheduler
+```bash
+ git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
+```
+
 
 ### ERROR:
 - https://github.com/trampgeek/moodle-qtype_coderunner
