@@ -110,3 +110,7 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = master
+[submodule "moodle/blocks/sharing_cart"]
+	path = moodle/blocks/sharing_cart
+	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
+	branch = master
