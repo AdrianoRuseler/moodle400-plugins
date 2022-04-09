@@ -137,6 +137,10 @@ git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipad
 ```bash
 git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
+- https://github.com/jleyva/moodle-block_configurablereports
+```bash
+git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
+```
 
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
@@ -179,10 +183,7 @@ git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
-- https://github.com/jleyva/moodle-block_configurablereports
-```bash
-git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
-```
+
 - https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
 git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
