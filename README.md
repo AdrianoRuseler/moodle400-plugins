@@ -141,6 +141,14 @@ git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+```
+- https://github.com/DigiDago/moodle-format_softcourse
+```bash
+git submodule add -b MOODLE_40_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
+```
 
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
@@ -157,10 +165,7 @@ git submodule add -b master https://github.com/cellule-tice/moodle-format_collap
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
-- https://github.com/DigiDago/moodle-format_softcourse
-```bash
-git submodule add -b MOODLE_311_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
-```
+
 
 - https://github.com/turnitin/moodle-plagiarism_turnitin.git
 ```bash
@@ -170,11 +175,6 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 - https://github.com/turnitin/moodle-mod_turnitintooltwo.git
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
-```
-
-- https://github.com/moodleuulm/moodle-local_sandbox
-```bash
-git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 ### Need review
