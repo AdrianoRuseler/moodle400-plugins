@@ -172,16 +172,16 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
 ```
 
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+```
+
 ### Need review
 
 - https://github.com/udima-university/moodle-mod_jitsi
 ```bash
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
-```
-
-- https://github.com/moodleuulm/moodle-local_sandbox
-```bash
-git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 - https://github.com/Syxton/moodle-tool_coursearchiver
