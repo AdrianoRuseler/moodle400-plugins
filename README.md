@@ -129,6 +129,10 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 ```bash
 git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
 ```
+- https://github.com/bostelm/moodle-mod_scheduler
+```bash
+ git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
+```
 
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
@@ -166,11 +170,6 @@ git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintoolt
 ```
 
 ### Need review
-
-- https://github.com/bostelm/moodle-mod_scheduler
-```bash
- git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
-```
 
 - https://github.com/udima-university/moodle-mod_jitsi
 ```bash
