@@ -106,3 +106,7 @@
 	path = moodle/availability/condition/ipaddress
 	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
 	branch = master
+[submodule "moodle/mod/scheduler"]
+	path = moodle/mod/scheduler
+	url = https://github.com/bostelm/moodle-mod_scheduler.git
+	branch = master
