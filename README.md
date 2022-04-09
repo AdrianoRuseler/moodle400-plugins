@@ -121,10 +121,6 @@ git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git m
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
-- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
-```bash
-git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
-```
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
@@ -198,7 +194,10 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
 git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
 ```
-
+- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+```bash
+git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+```
 ### REMOVED:
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
