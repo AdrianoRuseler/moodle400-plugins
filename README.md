@@ -157,6 +157,10 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
 ```
+- https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+```
 
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
@@ -181,10 +185,7 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
 ```
 
-- https://github.com/turnitin/moodle-mod_turnitintooltwo.git
-```bash
-git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
-```
+
 
 
 
