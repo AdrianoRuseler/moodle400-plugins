@@ -153,6 +153,10 @@ git submodule add -b MOODLE_40_STABLE https://github.com/DigiDago/moodle-format_
 ```bash
 git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
 ```
+- https://github.com/udima-university/moodle-mod_jitsi
+```bash
+git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
+```
 
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
@@ -170,6 +174,7 @@ git submodule add -b master https://github.com/cellule-tice/moodle-format_collap
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 
+### Need review
 
 - https://github.com/turnitin/moodle-plagiarism_turnitin.git
 ```bash
@@ -179,13 +184,6 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 - https://github.com/turnitin/moodle-mod_turnitintooltwo.git
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
-```
-
-### Need review
-
-- https://github.com/udima-university/moodle-mod_jitsi
-```bash
-git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
 ```
 
 
