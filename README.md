@@ -121,6 +121,11 @@ git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git m
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
+- https://github.com/mikasmart/moodle-report_benchmark
+```bash
+git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark.git report/benchmark
+```
+
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
@@ -132,10 +137,6 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
 
-- https://github.com/mikasmart/moodle-report_benchmark
-```bash
-git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark.git report/benchmark
-```
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
