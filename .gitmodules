@@ -98,3 +98,7 @@
 	path = moodle/mod/book/tool/wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
 	branch = master
+[submodule "moodle/report/benchmark"]
+	path = moodle/report/benchmark
+	url = https://github.com/mikasmart/moodle-report_benchmark.git
+	branch = master
