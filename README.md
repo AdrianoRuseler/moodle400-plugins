@@ -165,14 +165,11 @@ git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintoolt
 ```bash
 git submodule add -b master https://github.com/brandaorodrigo/moodle-format_buttons.git course/format/buttons
 ```
-
-### TO DO:
-
-
 - https://github.com/cellule-tice/moodle-format_collapsibletopics
 ```bash
 git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
+### TO DO:
 
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
