@@ -138,3 +138,7 @@
 	path = moodle/mod/turnitintooltwo
 	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
 	branch = master
+[submodule "moodle/course/format/buttons"]
+	path = moodle/course/format/buttons
+	url = https://github.com/brandaorodrigo/moodle-format_buttons.git
+	branch = master
