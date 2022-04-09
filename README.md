@@ -149,6 +149,10 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 ```bash
 git submodule add -b MOODLE_40_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 ```
+- https://github.com/Syxton/moodle-tool_coursearchiver
+```bash
+git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
+```
 
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
@@ -184,10 +188,7 @@ git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintoolt
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
 ```
 
-- https://github.com/Syxton/moodle-tool_coursearchiver
-```bash
-git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
-```
+
 
 ### ERROR:
 - https://github.com/trampgeek/moodle-qtype_coderunner
