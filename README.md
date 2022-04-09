@@ -169,12 +169,14 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 ```bash
 git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
-### TO DO:
-
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
+
+### TO DO:
+
+
 
 ### Need review
 
