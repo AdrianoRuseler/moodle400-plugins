@@ -122,3 +122,7 @@
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
 	branch = master
+[submodule "moodle/course/format/softcourse"]
+	path = moodle/course/format/softcourse
+	url = https://github.com/DigiDago/moodle-format_softcourse.git
+	branch = MOODLE_40_STABLE
