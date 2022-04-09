@@ -126,3 +126,7 @@
 	path = moodle/course/format/softcourse
 	url = https://github.com/DigiDago/moodle-format_softcourse.git
 	branch = MOODLE_40_STABLE
+[submodule "moodle/admin/tool/coursearchiver"]
+	path = moodle/admin/tool/coursearchiver
+	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
+	branch = master
