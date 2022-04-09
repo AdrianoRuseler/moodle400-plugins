@@ -116,6 +116,10 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 
+- https://github.com/ecampbell/moodle-booktool_wordimport
+```bash
+git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
+```
 ### TO DO:
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
@@ -144,11 +148,6 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
-```
-
-- https://github.com/ecampbell/moodle-booktool_wordimport
-```bash
-git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
 - https://github.com/donhinkelman/moodle-block_sharing_cart
