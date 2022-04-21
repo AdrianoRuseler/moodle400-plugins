@@ -173,9 +173,13 @@ git submodule add -b master https://github.com/cellule-tice/moodle-format_collap
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
+- https://github.com/trampgeek/moodle-qtype_coderunner
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+```
 
 ### TO DO:
-
 
 
 ### Need review
@@ -185,16 +189,8 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
 ```
 
-
-
-
-
 ### ERROR:
-- https://github.com/trampgeek/moodle-qtype_coderunner
-```bash
-git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
-git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
-```
+
 - https://github.com/moodlehq/moodle-tool_migratehvp2h5p
 ```bash
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
