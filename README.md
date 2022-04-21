@@ -207,6 +207,10 @@ git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
 cd mod/hvp
 git submodule update --init
 ```
+- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+```bash
+git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+```
 
 ### TO DO:
 
@@ -220,10 +224,7 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 
 ### ERROR:
 
-- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
-```bash
-git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
-```
+
 ### REMOVED:
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
