@@ -150,3 +150,7 @@
 	path = moodle/course/format/tiles
 	url = https://bitbucket.org/dw8/moodle-format_tiles.git
 	branch = master
+[submodule "moodle/question/behaviour/adaptive_adapted_for_coderunner"]
+	path = moodle/question/behaviour/adaptive_adapted_for_coderunner
+	url = https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git
+	branch = master
