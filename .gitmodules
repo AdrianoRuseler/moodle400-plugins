@@ -186,3 +186,7 @@
 	path = moodle/course/format/collapsibletopics
 	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
 	branch = moodle311
+[submodule "moodle/enrol/autoenrol"]
+	path = moodle/enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
+	branch = master
