@@ -10,10 +10,6 @@
 	path = moodle/blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
 	branch = master
-[submodule "moodle/enrol/auto"]
-	path = moodle/enrol/auto
-	url = https://github.com/bynare/moodle-enrol_auto.git
-	branch = main
 [submodule "moodle/question/type/oumultiresponse"]
 	path = moodle/question/type/oumultiresponse
 	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
