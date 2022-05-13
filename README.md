@@ -45,11 +45,6 @@ git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/
 git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
 ```
 
-- https://github.com/bynare/moodle-enrol_auto
-```bash
-git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
-```
-
 - https://github.com/moodleou/moodle-qtype_oumultiresponse
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
@@ -217,7 +212,10 @@ git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h
 git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
-
+- https://github.com/bobopinna/moodle-enrol_autoenrol
+```bash
+git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.git enrol/autoenrol
+```
 
 ### TO DO:
 
@@ -237,7 +235,10 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 ```bash
 git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
 ```
-
+- https://github.com/bynare/moodle-enrol_auto
+```bash
+git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
+```
 ## Remove
 
 ```bash
