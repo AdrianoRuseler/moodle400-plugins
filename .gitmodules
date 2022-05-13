@@ -186,3 +186,7 @@
 	path = moodle/course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
 	branch = master
+[submodule "moodle/course/format/collapsibletopics"]
+	path = moodle/course/format/collapsibletopics
+	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
+	branch = moodle311
