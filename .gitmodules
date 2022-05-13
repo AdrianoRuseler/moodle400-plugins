@@ -186,3 +186,7 @@
 	path = moodle/question/type/varnumunit
 	url = https://github.com/moodleou/moodle-qtype_varnumunit.git
 	branch = main
+[submodule "moodle/course/format/etask"]
+	path = moodle/course/format/etask
+	url = https://gitlab.com/drlikm/format_etask.git
+	branch = master
