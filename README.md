@@ -190,7 +190,7 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 ```
 - https://github.com/cellule-tice/moodle-format_collapsibletopics
 ```bash
-git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
+git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
