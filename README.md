@@ -212,6 +212,13 @@ git submodule update --init
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
 
+- https://gitlab.com/drlikm/format_etask
+```bash
+git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
+```
+
+
+
 ### TO DO:
 
 
