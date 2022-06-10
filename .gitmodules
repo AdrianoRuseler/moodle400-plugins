@@ -190,3 +190,7 @@
 	path = moodle/mod/studentquiz
 	url = https://github.com/frankkoch/moodle-mod_studentquiz.git
 	branch = main
+[submodule "moodle/blocks/grade_me"]
+	path = moodle/blocks/grade_me
+	url = https://github.com/remotelearner/moodle-block_grade_me.git
+	branch = MOODLE_311_STABLE
