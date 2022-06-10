@@ -217,6 +217,11 @@ git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/fo
 git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.git enrol/autoenrol
 ```
 
+- https://github.com/remotelearner/moodle-block_grade_me
+```bash
+git submodule add -b MOODLE_311_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
+```
+
 ### TO DO:
 
 
