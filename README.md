@@ -155,10 +155,6 @@ git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipad
 ```bash
 git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
-- https://github.com/jleyva/moodle-block_configurablereports
-```bash
-git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
-```
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
@@ -175,9 +171,9 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
 ```
-- https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+- https://github.com/turnitin/moodle-plagiarism_turnitin.git
 ```bash
-git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
 ```
 - https://github.com/brandaorodrigo/moodle-format_buttons
 ```bash
@@ -227,10 +223,7 @@ git submodule add -b MOODLE_311_STABLE https://github.com/remotelearner/moodle-b
 
 ### Need review
 
-- https://github.com/turnitin/moodle-plagiarism_turnitin.git
-```bash
-git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
-```
+
 
 ### ERROR:
 
@@ -243,6 +236,15 @@ git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.gi
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
+```
+
+- https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+```
+- https://github.com/jleyva/moodle-block_configurablereports
+```bash
+git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
 ## Remove
 
