@@ -220,7 +220,14 @@ git submodule add -b MOODLE_311_STABLE https://github.com/remotelearner/moodle-b
 
 ### Need review
 
-
+- https://github.com/moodleworkplace/moodle-tool_certificate
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
+```
+- https://github.com/moodleworkplace/moodle-mod_coursecertificate
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
+```
 
 ### ERROR:
 
