@@ -175,10 +175,7 @@ git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi
 ```bash
 git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
 ```
-- https://github.com/brandaorodrigo/moodle-format_buttons
-```bash
-git submodule add -b master https://github.com/brandaorodrigo/moodle-format_buttons.git course/format/buttons
-```
+
 - https://github.com/cellule-tice/moodle-format_collapsibletopics
 ```bash
 git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
@@ -246,6 +243,12 @@ git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintoolt
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
+
+- https://github.com/brandaorodrigo/moodle-format_buttons
+```bash
+git submodule add -b master https://github.com/brandaorodrigo/moodle-format_buttons.git course/format/buttons
+```
+
 ## Remove
 
 ```bash
