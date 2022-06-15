@@ -190,3 +190,7 @@
 	path = moodle/blocks/grade_me
 	url = https://github.com/remotelearner/moodle-block_grade_me.git
 	branch = MOODLE_311_STABLE
+[submodule "moodle/plagiarism/turnitin"]
+	path = moodle/plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
+	branch = master
