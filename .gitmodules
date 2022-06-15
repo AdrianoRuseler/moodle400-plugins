@@ -30,10 +30,6 @@
 	path = moodle/mod/quizgame
 	url = https://github.com/xow/moodle-mod_quizgame.git
 	branch = master
-[submodule "moodle/mod/vpl"]
-	path = moodle/mod/vpl
-	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
-	branch = V3.5.0
 [submodule "moodle/question/type/vplquestion"]
 	path = moodle/question/type/vplquestion
 	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
