@@ -186,3 +186,7 @@
 	path = moodle/plagiarism/turnitin
 	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
 	branch = master
+[submodule "moodle/mod/vpl"]
+	path = moodle/mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = V3.5.1
