@@ -214,7 +214,10 @@ git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.
 ```bash
 git submodule add -b MOODLE_311_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
 ```
-
+- https://gitlab.com/jezhops/moodle-theme_adaptable
+```bash
+git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
+```
 ### TO DO:
 
 
@@ -233,10 +236,7 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-mod_course
 
 
 ### REMOVED:
-- https://gitlab.com/jezhops/moodle-theme_adaptable
-```bash
-git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
-```
+
 - https://github.com/bynare/moodle-enrol_auto
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
