@@ -186,3 +186,7 @@
 	path = moodle/theme/adaptable
 	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
 	branch = master
+[submodule "moodle/question/type/coderunner"]
+	path = moodle/question/type/coderunner
+	url = https://github.com/trampgeek/moodle-qtype_coderunner.git
+	branch = development
