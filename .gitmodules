@@ -190,3 +190,7 @@
 	path = moodle/question/type/coderunner
 	url = https://github.com/trampgeek/moodle-qtype_coderunner.git
 	branch = development
+[submodule "moodle/report/allbackups"]
+	path = moodle/report/allbackups
+	url = https://github.com/catalyst/moodle-report_allbackups.git
+	branch = MOODLE_400_STABLE
