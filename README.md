@@ -232,6 +232,24 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certi
 git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
 ```
 
+- https://github.com/catalyst/moodle-report_allbackups
+
+```bash
+git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
+```
+
+- https://github.com/turnitin/moodle-plagiarism_turnitinsim
+
+```bash
+git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
+```
+
+- https://github.com/turnitin/moodle-mod_turnitintooltwo
+
+```bash
+git submodule add -b develop https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
+```
+
 ### ERROR:
 
 
@@ -242,10 +260,6 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-mod_course
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
 
-- https://github.com/turnitin/moodle-mod_turnitintooltwo.git
-```bash
-git submodule add -b master https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
-```
 - https://github.com/jleyva/moodle-block_configurablereports
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
