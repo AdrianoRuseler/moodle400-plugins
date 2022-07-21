@@ -194,3 +194,7 @@
 	path = moodle/report/allbackups
 	url = https://github.com/catalyst/moodle-report_allbackups.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/plagiarism/turnitinsim"]
+	path = moodle/plagiarism/turnitinsim
+	url = https://github.com/turnitin/moodle-plagiarism_turnitinsim.git
+	branch = develop
