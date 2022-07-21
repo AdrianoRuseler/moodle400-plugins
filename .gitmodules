@@ -198,3 +198,7 @@
 	path = moodle/plagiarism/turnitinsim
 	url = https://github.com/turnitin/moodle-plagiarism_turnitinsim.git
 	branch = develop
+[submodule "moodle/mod/turnitintooltwo"]
+	path = moodle/mod/turnitintooltwo
+	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
+	branch = develop
