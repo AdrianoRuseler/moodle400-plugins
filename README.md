@@ -186,8 +186,8 @@ git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git co
 ```
 - https://github.com/trampgeek/moodle-qtype_coderunner
 ```bash
-git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
-git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+git submodule add -b development https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+git submodule add -b development https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
 ```
 - https://github.com/h5p/h5p-moodle-plugin
 ```bash
@@ -218,10 +218,7 @@ git submodule add -b MOODLE_311_STABLE https://github.com/remotelearner/moodle-b
 ```bash
 git submodule add -b master https://gitlab.com/jezhops/moodle-theme_adaptable.git theme/adaptable
 ```
-### TO DO:
 
-
-### Need review
 
 - https://github.com/moodleworkplace/moodle-tool_certificate
 ```bash
@@ -249,6 +246,10 @@ git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turni
 ```bash
 git submodule add -b develop https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
 ```
+
+### TO DO:
+
+### Need review
 
 ### ERROR:
 
