@@ -198,3 +198,7 @@
 	path = moodle/mod/turnitintooltwo
 	url = https://github.com/turnitin/moodle-mod_turnitintooltwo.git
 	branch = develop
+[submodule "moodle/course/format/softcourse"]
+	path = moodle/course/format/softcourse
+	url = https://github.com/DigiDago/moodle-format_softcourse.git
+	branch = MOODLE_400_STABLE
