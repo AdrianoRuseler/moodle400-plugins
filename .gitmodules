@@ -202,3 +202,7 @@
 	path = moodle/enrol/auto
 	url = https://github.com/bynare/moodle-enrol_auto.git
 	branch = main
+[submodule "moodle/course/format/tiles"]
+	path = moodle/course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = moodle40
