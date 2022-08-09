@@ -182,7 +182,7 @@ git submodule add -b moodle311 https://github.com/cellule-tice/moodle-format_col
 ```
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
-git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+git submodule add -b moodle40 https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 - https://github.com/trampgeek/moodle-qtype_coderunner
 ```bash
