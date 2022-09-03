@@ -202,3 +202,7 @@
 	path = moodle/question/type/coderunner
 	url = https://github.com/trampgeek/moodle-qtype_coderunner.git
 	branch = master
+[submodule "moodle/mod/vpl"]
+	path = moodle/mod/vpl
+	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
+	branch = master
