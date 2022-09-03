@@ -161,7 +161,7 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 ```
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
-git submodule add -b MOODLE_40_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
+git submodule add -b MOODLE_400_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 ```
 - https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
