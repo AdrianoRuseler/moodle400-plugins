@@ -202,3 +202,7 @@
 	path = moodle/mod/vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = master
+[submodule "moodle/course/format/softcourse"]
+	path = moodle/course/format/softcourse
+	url = https://github.com/DigiDago/moodle-format_softcourse.git
+	branch = MOODLE_400_STABLE
