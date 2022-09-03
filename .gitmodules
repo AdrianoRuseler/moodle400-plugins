@@ -110,10 +110,6 @@
 	path = moodle/mod/jitsi
 	url = https://github.com/udima-university/moodle-mod_jitsi.git
 	branch = master
-[submodule "moodle/question/behaviour/adaptive_adapted_for_coderunner"]
-	path = moodle/question/behaviour/adaptive_adapted_for_coderunner
-	url = https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git
-	branch = master
 [submodule "moodle/mod/hvp"]
 	path = moodle/mod/hvp
 	url = https://github.com/h5p/h5p-moodle-plugin.git
