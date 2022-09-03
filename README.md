@@ -75,7 +75,7 @@ git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/q
 
 - https://github.com/jcrodriguez-dis/moodle-mod_vpl
 ```bash
-git submodule add -b V3.5.1 https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+git submodule add -b master https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
 ```
 
 - https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
