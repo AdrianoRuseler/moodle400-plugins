@@ -186,8 +186,8 @@ git submodule add -b moodle40 https://bitbucket.org/dw8/moodle-format_tiles.git 
 ```
 - https://github.com/trampgeek/moodle-qtype_coderunner
 ```bash
-git submodule add -b development https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
-git submodule add -b development https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
 ```
 - https://github.com/h5p/h5p-moodle-plugin
 ```bash
