@@ -206,3 +206,7 @@
 	path = moodle/blocks/grade_me
 	url = https://github.com/remotelearner/moodle-block_grade_me.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/course/format/wplist"]
+	path = moodle/course/format/wplist
+	url = https://github.com/moodleworkplace/moodle-format_wplist.git
+	branch = master
