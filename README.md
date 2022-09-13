@@ -271,6 +271,11 @@ git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_con
 git submodule add -b master https://github.com/brandaorodrigo/moodle-format_buttons.git course/format/buttons
 ```
 
+- https://github.com/moodleworkplace/moodle-format_wplist
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
+```
+
 ## Remove
 
 ```bash
