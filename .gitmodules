@@ -206,3 +206,7 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/blocks/dedication"]
+	path = moodle/blocks/dedication
+	url = https://github.com/catalyst/moodle-block_dedication.git
+	branch = MOODLE_400_STABLE
