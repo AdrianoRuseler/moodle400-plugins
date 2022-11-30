@@ -150,10 +150,6 @@
 	path = moodle/plagiarism/turnitin
 	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
 	branch = master
-[submodule "moodle/theme/adaptable"]
-	path = moodle/theme/adaptable
-	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
-	branch = master
 [submodule "moodle/report/allbackups"]
 	path = moodle/report/allbackups
 	url = https://github.com/catalyst/moodle-report_allbackups.git
