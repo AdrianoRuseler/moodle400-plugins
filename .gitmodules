@@ -206,7 +206,3 @@
 	path = moodle/blocks/dedication
 	url = https://github.com/catalyst/moodle-block_dedication.git
 	branch = MOODLE_400_STABLE
-[submodule "moodle/theme/adaptable"]
-	path = moodle/theme/adaptable
-	url = https://gitlab.com/jezhops/moodle-theme_adaptable.git
-	branch = MOODLE_400
