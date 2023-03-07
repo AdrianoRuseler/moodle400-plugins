@@ -247,6 +247,13 @@ git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turni
 git submodule add -b develop https://github.com/turnitin/moodle-mod_turnitintooltwo.git mod/turnitintooltwo
 ```
 
+- https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
+```bash
+git submodule add -b MOODLE_400_STABLE https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
+```
+
+
+
 ### TO DO:
 
 ### Need review
