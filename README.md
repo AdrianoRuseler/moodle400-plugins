@@ -252,6 +252,10 @@ git submodule add -b develop https://github.com/turnitin/moodle-mod_turnitintool
 git submodule add -b MOODLE_400_STABLE https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
 
+- https://github.com/cbluesprl/moodle-mod_custommailing
+```bash
+git submodule add  -b master https://github.com/cbluesprl/moodle-mod_custommailing.git mod/custommailing
+```
 
 
 ### TO DO:
