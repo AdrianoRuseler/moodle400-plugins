@@ -86,10 +86,6 @@
 	path = moodle/blocks/sharing_cart
 	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
 	branch = master
-[submodule "moodle/local/sandbox"]
-	path = moodle/local/sandbox
-	url = https://github.com/moodleuulm/moodle-local_sandbox.git
-	branch = master
 [submodule "moodle/admin/tool/coursearchiver"]
 	path = moodle/admin/tool/coursearchiver
 	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
