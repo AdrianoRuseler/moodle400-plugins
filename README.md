@@ -117,7 +117,7 @@ git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautogr
 ```
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
-git submodule add -b MOODLE_311_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+git submodule add -b MOODLE_400_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
 
 - https://github.com/moodleou/moodle-qtype_combined
