@@ -126,7 +126,7 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git 
 ```
 - https://moodle.org/plugins/block_dedication
 ```bash
-git submodule add -b MOODLE_400_STABLE https://bitbucket.org/ciceidev/moodle_block_dedication.git blocks/dedication
+git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-block_dedication.git blocks/dedication
 ```
 
 - https://github.com/mudrd8mz/moodle-mod_subcourse
