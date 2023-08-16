@@ -198,3 +198,7 @@
 	path = moodle/blocks/dedication
 	url = https://github.com/catalyst/moodle-block_dedication.git
 	branch = MOODLE_400_STABLE
+[submodule "moodle/blocks/sharing_cart"]
+	path = moodle/blocks/sharing_cart
+	url = https://github.com/donhinkelman/moodle-block_sharing_cart.git
+	branch = MOODLE_40_STABLE
