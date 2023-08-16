@@ -153,7 +153,7 @@ git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipad
 ```
 - https://github.com/donhinkelman/moodle-block_sharing_cart
 ```bash
-git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
+git submodule add -b MOODLE_40_STABLE https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
 ```
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
@@ -252,10 +252,7 @@ git submodule add -b develop https://github.com/turnitin/moodle-mod_turnitintool
 git submodule add -b MOODLE_400_STABLE https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
 
-- https://github.com/cbluesprl/moodle-mod_custommailing
-```bash
-git submodule add  -b master https://github.com/cbluesprl/moodle-mod_custommailing.git mod/custommailing
-```
+
 
 
 ### TO DO:
@@ -286,7 +283,10 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
 ```
-
+- https://github.com/cbluesprl/moodle-mod_custommailing
+```bash
+git submodule add  -b master https://github.com/cbluesprl/moodle-mod_custommailing.git mod/custommailing
+```
 ## Remove
 
 ```bash
