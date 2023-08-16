@@ -190,10 +190,6 @@
 	path = moodle/theme/boost_union
 	url = https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git
 	branch = MOODLE_400_STABLE
-[submodule "moodle/mod/custommailing"]
-	path = moodle/mod/custommailing
-	url = https://github.com/cbluesprl/moodle-mod_custommailing.git
-	branch = master
 [submodule "moodle/local/sandbox"]
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
