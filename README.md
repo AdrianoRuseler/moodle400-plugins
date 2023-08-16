@@ -202,7 +202,7 @@ git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h
 
 - https://gitlab.com/drlikm/format_etask
 ```bash
-git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
+git submodule add -b FORMAT_ETASK_22_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
 - https://github.com/bobopinna/moodle-enrol_autoenrol
