@@ -198,3 +198,7 @@
 	path = moodle/course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
 	branch = FORMAT_ETASK_22_STABLE
+[submodule "moodle/mod/subcourse"]
+	path = moodle/mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = MOODLE_39_STABLE
