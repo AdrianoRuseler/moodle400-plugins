@@ -131,7 +131,7 @@ git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-block_
 
 - https://github.com/mudrd8mz/moodle-mod_subcourse
 ```bash
-git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
+git submodule add -b MOODLE_39_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 
 - https://github.com/ecampbell/moodle-booktool_wordimport
