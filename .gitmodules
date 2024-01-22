@@ -34,10 +34,6 @@
 	path = moodle/report/coursesize
 	url = https://github.com/catalyst/moodle-report_coursesize.git
 	branch = MOODLE_39_STABLE
-[submodule "moodle/availability/condition/relativedate"]
-	path = moodle/availability/condition/relativedate
-	url = https://github.com/ewallah/moodle-availability_relativedate.git
-	branch = main
 [submodule "moodle/mod/geogebra"]
 	path = moodle/mod/geogebra
 	url = https://github.com/projectestac/moodle-mod_geogebra.git
